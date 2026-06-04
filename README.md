@@ -19,7 +19,6 @@ Hi 👋, I'm Ahmad! I'm deeply passionate about Cybersecurity, specifically Pene
 ### 🛡️ Programming & Security Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=404a70x&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
