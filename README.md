@@ -19,7 +19,6 @@ Hi 👋, I'm Ahmad! I'm deeply passionate about Cybersecurity, specifically Pene
 ### 🛡️ Programming & Security Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 # 📊 GitHub Stats:
@@ -30,8 +29,6 @@ Hi 👋, I'm Ahmad! I'm deeply passionate about Cybersecurity, specifically Pene
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=404a70x&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=404a70x&limit=5&theme=dark&combine_all_yearly_contributions=true)
