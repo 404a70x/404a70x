@@ -1,4 +1,4 @@
-# Hi 👋, I'm ahmad almekawed
+# Hi 👋, I'm ahmad 
 [![](https://komarev.com/ghpvc/?username=404a70x&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 💫 About Me:
